@@ -1,0 +1,7 @@
+Research Ivanov 45500
+Research Petrov 37000
+Management Sidorov 245000
+Management Petrenko 65000
+Development Tovalds 91200
+Research Popov 54600
+Sales Andrienko 35000

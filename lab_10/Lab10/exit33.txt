@@ -1,0 +1,5 @@
+Development 91200
+Management 310000
+Research 137100
+Sales 35000
+Overall: 573300
